@@ -1,7 +1,8 @@
-.metadata/
-target/
-.idea/
-*.log
+.metadata
+target
+.idea
+.log
 .classpath
 .project
-.settings/
+.settings
+bin
